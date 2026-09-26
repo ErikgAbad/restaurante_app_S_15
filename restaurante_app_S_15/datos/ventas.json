@@ -1,0 +1,32 @@
+[
+    {
+        "id_venta": 1,
+        "cliente": "",
+        "producto": "P001 - Hamburguesa Doble con Queso"
+    },
+    {
+        "id_venta": 2,
+        "cliente": "",
+        "producto": "P002 - Pizza Familiar Pepperoni"
+    },
+    {
+        "id_venta": 3,
+        "cliente": "",
+        "producto": "P004 - Gaseosa 500ml"
+    },
+    {
+        "id_venta": 4,
+        "cliente": "",
+        "producto": "P002 - Pizza Familiar Pepperoni"
+    },
+    {
+        "id_venta": 1,
+        "cliente": "",
+        "producto": "P002 - Pizza Familiar Pepperoni"
+    },
+    {
+        "id_venta": 5,
+        "cliente": "",
+        "producto": "P002 - Pizza Familiar Pepperoni"
+    }
+]

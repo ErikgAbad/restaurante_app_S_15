@@ -1,0 +1,6 @@
+[
+    {"id_producto": "P001", "nombre": "Hamburguesa Doble con Queso"},
+    {"id_producto": "P002", "nombre": "Pizza Familiar Pepperoni"},
+    {"id_producto": "P003", "nombre": "Papas Fritas Medianas"},
+    {"id_producto": "P004", "nombre": "Gaseosa 500ml"}
+]
